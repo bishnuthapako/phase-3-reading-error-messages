@@ -92,6 +92,7 @@ the error. For instance:
 ```rb
 2.times do
   puts "hi"
+  end
 ```
 
 Will result in:
